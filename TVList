@@ -234,3 +234,6 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
 #EXTINF:-1 tvg-id="AZA TV.hn" tvg-logo="" group-title="Religious",AZA TV
 https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Lim TV.PY" tvg-logo="" group-title="General",Lim TV
+https://5790d294af2dc.streamlock.net/limtv/limtv/chunklist.m3u8
