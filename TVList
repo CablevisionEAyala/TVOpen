@@ -1,0 +1,236 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="General",ABC-TV Paraguay
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",4D Más Noticias TV
+https://copacogen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/chunklist_w644911598.m3u8?k=7b5daa1f8be60031a11411cf7cfc22ed4f3c6fea4ece5a82dff9c73099a245f9&exp=1715383052
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="General,News",Unicanal
+https://copacogen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w1254697834.m3u8?k=5e4978379f005d5a91ab0b9671eebc0900ad402d08dbabac1eb5a1b7a26ff661&exp=1715394237
+
+#EXTINF:-1 tvg-id="SNT.py" tvg-logo="https://i.imgur.com/HNlWRiF.png" group-title="News",SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GEN.py" tvg-logo="" group-title="General",GEN TV
+http://video.camaronhosting.com/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universo TV.py" tvg-logo="" group-title="General",Universo TV
+http://video.camaronhosting.com/universotv/universotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="General,News",Venus Media
+https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1525180665.m3u8?k=6b7dc177e0ce39af2e5cf85b27c7649118d90e3d76f8c16fc3866834d3d95f2d&exp=1715399858
+
+#EXTINF:-1 tvg-id="UnionTV.py" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",Union TV
+https://copacogen.desdeparaguay.net/800tv/800tv/chunklist_w1886891718.m3u8?k=66ec367545a04718b14a3f140e36ad5c8de00dee5d7a2499c491d534f4eac25a&exp=1715399196
+
+#EXTINF:-1 tvg-id="MegaTV.py" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="News",Mega TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV
+https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/chunklist_w1362833791.m3u8?k=a560c72975f909b787f81454a5b331557b2775e2bd534e4ba31447374212ab72&exp=1624906077
+
+#EXTINF:-1 tvg-id="ASPEN TV.py" tvg-logo="" group-title="News",ASPEN TV
+https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w1991841135.m3u8?k=8554a2d2214292c654864015161b0718c0326caf75b1df4c9b74010c33d8442f&exp=1715403727
+
+#EXTINF:-1 tvg-id="EstacionCristal.py" tvg-logo="https://i.imgur.com/48MDOA0.png" group-title="General",Estacion Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Music",Farra Play
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-id="MasTV.py" tvg-logo="https://i.imgur.com/L2Dx1NY.png" group-title="",Más TV
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MisionTVDigital.py" tvg-logo="https://i.imgur.com/EM8nPEy.jpg" group-title="General",Mision TV Digital
+https://ssh101-fl.bozztv.com/ssh101/misiontvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MiTV.py" tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C9N.py" tvg-logo="https://i.imgur.com/Cp4zJ7O.png" group-title="News",C9N
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NextHD.py" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies;Music",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="ObediraTV.py" tvg-logo="https://i.imgur.com/fRzOUw5.png" group-title="Religious",Obedira TV
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OccidentalTV.py" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="General",Occidental TV
+https://59ce1298bfb98.streamlock.net/occidentaltv/occidentaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OviedoTV.py" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="",Oviedo TV
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioCaazapaPoty981FM.py" tvg-logo="https://i.imgur.com/vK0y9xk.jpg" group-title="General",Radio Caazapa Poty 98.1 FM
+https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioPykasuTV.py" tvg-logo="https://i.imgur.com/2aAOXZE.jpg" group-title="Music",Radio Pykasu TV
+https://59ce1298bfb98.streamlock.net/pykasutv/pykasutv/chunklist_w279847451.m3u8
+
+#EXTINF:-1 tvg-id="SucesoTV.py" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="News",Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w1887469674.m3u8
+
+#EXTINF:-1 tvg-id="TVAire.py" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="",TV Aire
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.py" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara
+https://ythls.armelin.one/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8
+
+#EXTINF:-1 tvg-id="TVSEncarnacion.py" tvg-logo="https://i.ibb.co/s14qLnR/TVS.png" group-title="General",TVS Encarnacion
+https://ssh101-fl.bozztv.com/ssh101/tvsencpy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="VillaElisaRadioTV.py" tvg-logo="https://i.imgur.com/ryzCsvy.jpg" group-title="General",Villa Elisa Radio TV
+https://59ce1298bfb98.streamlock.net/villaelisa/villaelisa/chunklist_w287578518.m3u8
+
+#EXTINF:-1 tvg-id="Educanal.py" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Education",Educanal
+https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oromartv.ec" tvg-logo="" group-title="General",Oromartv
+https://streaming.oromartv.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Latina TV.pe" tvg-logo="" group-title="General",Latina
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b1311711858082663f93236503b&ndvc=0&sid=ba5t1l1xb2666995225663f932457c80
+
+#EXTINF:-1 tvg-id="tvpe Internacional.pe" tvg-logo="" group-title="General",tvpe Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
+#EXTINF:-1 tvg-id="A24 Internacional.ar" tvg-logo="" group-title="General",A24 Internacional
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-id="Canal 10 Salta.ar" tvg-logo="" group-title="General",Canal 10 Salta
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+
+#EXTINF:-1 tvg-id="Cali TV.co" tvg-logo="" group-title="General",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w920562817_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPWdHWHZlQzZ3RFJvbjd2MW9RNkhDSlhZdk5KRjk5YjRnM29WNzFZcHNuWEU9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?181.94.249.138
+
+#EXTINF:-1 tvg-id="Vision Dorada Colombia.co" tvg-logo="" group-title="General",Visión Dorada Colombia
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-id="Telepacífico Colombia.co" tvg-logo="" group-title="General",Telepacífico
+https://live-edge-ams-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="" group-title="General",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="Canal Señal Colombia.co" tvg-logo="" group-title="General",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="Canal Zoom.co" tvg-logo="" group-title="General",Canal Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 tvg-id="Canal Sentimiento Vallenato.co" tvg-logo="" group-title="General",Sentimiento Vallenato
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal Teletica 91.5.cr" tvg-logo="" group-title="General",TELETICA Radio 91.5
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/TeleticaLiveStreamTRadio/Streamtradio3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Canal WOW.sv" tvg-logo="" group-title="General",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w399085205_b2000000_slen.m3u8
+
+#EXTINF:-1 tvg-id="Canal RTVD.do" tvg-logo="" group-title="General",RTVD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w848976866_b2163840_DVR.m3u8
+
+#EXTINF:-1 tvg-id="Canal Telemicro.do" tvg-logo="" group-title="General",TELEMICRO
+https://playback.akamaized.net/streams/27456795_10633780_lsihc2h8rgocmluqkk3_1/media/27456795_10633780_lsihc2h8rgocmluqkk3_1@628000p.m3u8?dw=14400&ts=1715450400&hdnts=exp=1715624424~acl=/streams/27456795_10633780_lsihc2h8rgocmluqkk3_1/media*~hmac=3a0e4ea688951e66f6289204ba157291a6121980f556b04c5bec553ea2e00ba5
+
+#EXTINF:-1 tvg-id="Bonches Latinos.do" tvg-logo="" group-title="General",Bonches Latinos
+https://ss5.domint.net:3172/btv_str/bonchestv/chunklist_w1407194875.m3u8
+
+#EXTINF:-1 tvg-id="Canal 18.pr" tvg-logo="" group-title="General",Canal 18
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+
+#EXTINF:-1 tvg-id="Telearuba Canal 13.aw" tvg-logo="" group-title="General",Telearuba Canal 13
+https://cdn01.setar.aw/Telearuba/telearuba/chunklist_w32948742.m3u8
+
+#EXTINF:-1 tvg-id="Nos Isla TV.aw" tvg-logo="" group-title="General",Nos Isla TV
+https://cdn01.setar.aw/Canal23/canal23/chunklist_w1437791024.m3u8
+
+#EXTINF:-1 tvg-id="DW.com" tvg-logo="" group-title="General",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="RT.com" tvg-logo="" group-title="General",RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="" group-title="General",T13
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8?dpssid=b1311711858082663f93236503b&sid=ba5t1l1xb2119780962966403d94cbd22&ndvc=0
+
+#EXTINF:-1 tvg-id="biobio.cl" tvg-logo="" group-title="General",Bio Bio TV
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?dpssid=b1311711858082663f93236503b&ndvc=0&sid=ba5t1l1xb42927236640411453dec
+
+#EXTINF:-1 tvg-id="13 Humor.cl" tvg-logo="" group-title="General",13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-id="Energía TV.bn" tvg-logo="" group-title="General",Energía TV
+https://cur.watch/api/get_stream/dctv/basilachill/mystream.m3u8
+
+#EXTINF:-1 tvg-id="Nos TV.bn" tvg-logo="" group-title="General",Nos TV
+http://streaming.flamingotv.net/nostv/live.m3u8
+
+#EXTINF:-1 tvg-id="DTP Canal 15.hn" tvg-logo="" group-title="General",DTP Canal 15
+https://s.emisoras.tv:8081/dtp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Migrante.mx" tvg-logo="" group-title="General",TV Migrante
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11.mx" tvg-logo="" group-title="General",Canal 11
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+
+#EXTINF:-1 tvg-id="Canal 14.mx" tvg-logo="" group-title="General",Canal 14
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal 21.mx" tvg-logo="" group-title="General",Canal 21
+https://video.cdmx.gob.mx/debatechilango/stream.m3u8
+
+#EXTINF:-1 tvg-id="HGPTV.gy" tvg-logo="" group-title="General",HGPTV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/dd67f6cd6a9146bfb061fd9d8ac59e7d/chunklist_b4192000.m3u8?p=79&s=1715533907&e=1715534027&h=7121024bd1039abd9891653f8575a047
+
+#EXTINF:-1 tvg-id="1000xHora.uy" tvg-logo="" group-title="General",1000xhora
+https://livedelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EXzEwMDB4SG9yYSUyRmhscyUyRiUyQSZleHBpcnk9MTcxNTU4NTIyOCZyYW5kb209RnBlMEJEaEhLSiZjLWlwPTE4MS45NC4yNDkuMTM4JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnNoOGwsNDllOTI2MjUwNGFjYjgwZjkyZmQ0NjRmYTQ3YjIzYzk1YjBiYTU2MTRjYmNhNGFjNjBhYWMxOTZhMWZhY2E5OA==/u/auth_D_1000xHora/hls/auth_D_1000xHora_HLSDEF13557.m3u8
+
+#EXTINF:-1 tvg-id="Canal 2.uy" tvg-logo="" group-title="General",Canal 2
+https://vxlive.cdn.antel.net.uy/auth_V_Canal_2_San_Carlos,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMl9TYW5fQ2FybG9zJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MTU1ODU3MjgmcmFuZG9tPWR0TktwMUoxbVEmYy1pcD0xODEuOTQuMjQ5LjEzOCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm44LDcxNDllMmJiOGY0OTJiZjRiMTNjZDdhZTQ4MmFjOGMxOWZiYzkyNTAzMjgyMmEwOWRiOWU0MGM2NGM0NjZhYjQ=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 7.uy" tvg-logo="" group-title="General",Canal 7
+https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTg2MDUwJnJhbmRvbT1LWThxRXU1djVoJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4Myw5ZTI0ODUwYTJiOWZlYjJiZTQyNDkxMmVmMjg1Y2MwYjhjNTI3MWE2NmI5MGEwZGYzZWViMzQ3MmI1ZTE4MjE4/vxfmt=hls/h_acf7bfd331629bd251e329c9e363fe1b/var3950000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Latina TV.uy" tvg-logo="" group-title="General",Latina TV
+https://vxlive.cdn.antel.net.uy/auth_V_Latina_Tv,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfTGF0aW5hX1R2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MTU1ODYyMjYmcmFuZG9tPW5Rc01oazFPQWcmYy1pcD0xODEuOTQuMjQ5LjEzOCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJkLGQzYmU4MDNiZmU4NGE4MjZmOTY5NjZiYWNmMzBkNTJmZWQ4NWIxMDlmYTVjYTlmNTU1MzRiNTVjZjAyMDRmZGM=/vxfmt=hls/h_6fe564270334da7f7f2a1d6c5eec008e/var3950000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Más Deportes.uy" tvg-logo="" group-title="General",+ Deportes
+https://vxlive.cdn.antel.net.uy/auth_V_SNdD,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfU05kRCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTgyMTc4JnJhbmRvbT0zOVUwOUhCRG1rJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2Y0ZixhM2NkMjYyZjEyODRjNTRiYWFjNWNhYjQwMzEwZTQ4ZjM2NmE1NjU5NmMzODBjZDk2YmI2OTdjOTczOWQwYmJj/vxfmt=hls/h_8b1d6907e0cd92b3755d133dd4e6798d/var3950000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Ciudad.uy" tvg-logo="" group-title="General",TV Ciudad
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTgyOTU5JnJhbmRvbT1iNnVNYThTcFFEJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxiYTQ4ZmNmYzg2MGM5MWE3NDFjMGRmMDQ1N2E1ZTQ5MWQ3ZGVjN2M3NTdmNjMyMzI0NjJjZmFkOTgxODE5Mzc2/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletica Classics.cr" tvg-logo="" group-title="General",TELETICA Classics
+https://zkpywb8qybeg-hls-live.5centscdn.com/TeleticaRadio/d35b51b639528d580362ca7042de6a0e.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Vaticano News.va" tvg-logo="" group-title="Religious",Vaticano News
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+#EXTINF:-1 tvg-id="CaritasTV.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="General;Religious",Caritas TV
+https://copacogen.desdeparaguay.net/caritastv/caritastv/chunklist_w233931170.m3u8?k=93e754f55efdcd14abebacb921da6938f0d405973fe36f2da96b96c40553dce1&exp=1715384469
+
+#EXTINF:-1 tvg-id="RCCTV.py" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Religious",RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w111074616.m3u8
+
+#EXTINF:-1 tvg-id="Ñandejára Ñe e.py" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" group-title="General;Religious",Ñandejára Ñe e
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/chunklist_w1703798402.m3u8?k=f14cdc13eecb4023317c09df0eaebefbff327edae47d937d6308be90ba170a80&exp=1715402307
+
+#EXTINF:-1 tvg-id="Boas Novas.br" tvg-logo="" group-title="General;Religious",Boas Novas TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TN TV.ar" tvg-logo="" group-title="General;Religious",TN TV
+https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_720.m3u8
+
+#EXTINF:-1 tvg-id="enlace.pe" tvg-logo="" group-title="Religious",enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CBC TV8.bb" tvg-logo="" group-title="Religious",CBC TV8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+
+#EXTINF:-1 tvg-id="AZA TV.hn" tvg-logo="" group-title="Religious",AZA TV
+https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
