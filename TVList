@@ -187,24 +187,6 @@ https://video.cdmx.gob.mx/debatechilango/stream.m3u8
 #EXTINF:-1 tvg-id="HGPTV.gy" tvg-logo="" group-title="General",HGPTV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/dd67f6cd6a9146bfb061fd9d8ac59e7d/chunklist_b4192000.m3u8?p=79&s=1715533907&e=1715534027&h=7121024bd1039abd9891653f8575a047
 
-#EXTINF:-1 tvg-id="1000xHora.uy" tvg-logo="" group-title="General",1000xhora
-https://livedelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EXzEwMDB4SG9yYSUyRmhscyUyRiUyQSZleHBpcnk9MTcxNTU4NTIyOCZyYW5kb209RnBlMEJEaEhLSiZjLWlwPTE4MS45NC4yNDkuMTM4JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnNoOGwsNDllOTI2MjUwNGFjYjgwZjkyZmQ0NjRmYTQ3YjIzYzk1YjBiYTU2MTRjYmNhNGFjNjBhYWMxOTZhMWZhY2E5OA==/u/auth_D_1000xHora/hls/auth_D_1000xHora_HLSDEF13557.m3u8
-
-#EXTINF:-1 tvg-id="Canal 2.uy" tvg-logo="" group-title="General",Canal 2
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_2_San_Carlos,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMl9TYW5fQ2FybG9zJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MTU1ODU3MjgmcmFuZG9tPWR0TktwMUoxbVEmYy1pcD0xODEuOTQuMjQ5LjEzOCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm44LDcxNDllMmJiOGY0OTJiZjRiMTNjZDdhZTQ4MmFjOGMxOWZiYzkyNTAzMjgyMmEwOWRiOWU0MGM2NGM0NjZhYjQ=/vxfmt=hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 7.uy" tvg-logo="" group-title="General",Canal 7
-https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTg2MDUwJnJhbmRvbT1LWThxRXU1djVoJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4Myw5ZTI0ODUwYTJiOWZlYjJiZTQyNDkxMmVmMjg1Y2MwYjhjNTI3MWE2NmI5MGEwZGYzZWViMzQ3MmI1ZTE4MjE4/vxfmt=hls/h_acf7bfd331629bd251e329c9e363fe1b/var3950000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Latina TV.uy" tvg-logo="" group-title="General",Latina TV
-https://vxlive.cdn.antel.net.uy/auth_V_Latina_Tv,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfTGF0aW5hX1R2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MTU1ODYyMjYmcmFuZG9tPW5Rc01oazFPQWcmYy1pcD0xODEuOTQuMjQ5LjEzOCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJkLGQzYmU4MDNiZmU4NGE4MjZmOTY5NjZiYWNmMzBkNTJmZWQ4NWIxMDlmYTVjYTlmNTU1MzRiNTVjZjAyMDRmZGM=/vxfmt=hls/h_6fe564270334da7f7f2a1d6c5eec008e/var3950000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Más Deportes.uy" tvg-logo="" group-title="General",+ Deportes
-https://vxlive.cdn.antel.net.uy/auth_V_SNdD,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfU05kRCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTgyMTc4JnJhbmRvbT0zOVUwOUhCRG1rJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2Y0ZixhM2NkMjYyZjEyODRjNTRiYWFjNWNhYjQwMzEwZTQ4ZjM2NmE1NjU5NmMzODBjZDk2YmI2OTdjOTczOWQwYmJj/vxfmt=hls/h_8b1d6907e0cd92b3755d133dd4e6798d/var3950000/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Ciudad.uy" tvg-logo="" group-title="General",TV Ciudad
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzE1NTgyOTU5JnJhbmRvbT1iNnVNYThTcFFEJmMtaXA9MTgxLjk0LjI0OS4xMzgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxiYTQ4ZmNmYzg2MGM5MWE3NDFjMGRmMDQ1N2E1ZTQ5MWQ3ZGVjN2M3NTdmNjMyMzI0NjJjZmFkOTgxODE5Mzc2/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Teletica Classics.cr" tvg-logo="" group-title="General",TELETICA Classics
 https://zkpywb8qybeg-hls-live.5centscdn.com/TeleticaRadio/d35b51b639528d580362ca7042de6a0e.sdp/chunks.m3u8
 
@@ -234,6 +216,3 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 
 #EXTINF:-1 tvg-id="AZA TV.hn" tvg-logo="" group-title="Religious",AZA TV
 https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Lim TV.PY" tvg-logo="" group-title="General",Lim TV
-https://5790d294af2dc.streamlock.net/limtv/limtv/chunklist.m3u8
